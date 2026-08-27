@@ -60,6 +60,13 @@ export default {
       font-size: 15px;
       transition: 0.3s;
     }
+header nav,
+header nav a {
+  position: relative;
+  z-index: 10001;
+  pointer-events: auto;
+  cursor: pointer;
+}
 
     nav a:hover {
       color: #37d6c0;
