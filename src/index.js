@@ -438,8 +438,11 @@ header nav a {
         </p>
         <div class="price-row">
           <span class="price">Desde $24.99</span>
-          <a class="buy" href="#">Comprar</a>
-        </div>
+          <a class="buy" href="ENLACE-DE-TU-PRODUCTO-SHOPIFY">Comprar</a>
+        <div class="price-row">
+    <span class="price">Desde $24.99</span>
+    <a class="buy" href="#">Comprar</a>
+
       </div>
     </div>
 
