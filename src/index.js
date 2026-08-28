@@ -1,4 +1,4 @@
-export default {
+=export default {
   async fetch(request) {
     const html = `
 <!DOCTYPE html>
@@ -455,7 +455,7 @@ header nav a {
         </p>
         <div class="price-row">
           <span class="price">Desde $19.99</span>
-          <a class="buy" href="#">Comprar</a>
+          <a class="buy" href="ENLACE-DE-TU-Shopify.
         </div>
       </div>
     </div>
