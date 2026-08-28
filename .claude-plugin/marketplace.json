@@ -1,20 +1,16 @@
 {
-  "name": "taste-skill",
-  "description": "Taste skill library for Claude Code — frontend design, image-to-code, and aesthetic skills",
+  "name": "scroll-world",
+  "description": "Immersive scroll-world plugin",
   "owner": {
-    "name": "leonxlnx",
+    "name": "williams532",
     "email": ""
   },
   "plugins": [
     {
-      "name": "taste-skill",
-      "description": "Frontend design taste skills including brutalist, minimalist, soft, redesign, stitch, and more",
-      "version": "1.0.0",
-      "source": "./",
-      "author": {
-        "name": "leonxlnx",
-        "email": ""
-      }
+      "name": "scroll-world",
+      "description": "Immersive scroll-scrubbed fly through the world experience",
+      "version": "0.8.0",
+      "source": "./"
     }
   ]
 }
