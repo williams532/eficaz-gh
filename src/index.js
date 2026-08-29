@@ -1,6 +1,6 @@
 export default {
   async fetch(request) {
-    const html = `
+  const html = `
 <!DOCTYPE html>
 <html lang="es">
 <head>
