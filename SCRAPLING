@@ -1,0 +1,20 @@
+/scrapling-official Usa la skill de Scrapling para sacar de Google Maps una lista amplia de empresas instaladoras de paneles solares residenciales. Es un nicho pequeño, así que busca en varias ciudades grandes (Madrid y alrededores, Barcelona, Valencia, Sevilla, Málaga, Zaragoza y Bilbao) y reúne cuantas más mejor (revisa cientos y apunta a sacar 100 leads de calidad o más).
+
+De cada empresa quiero: nombre, teléfono, ciudad, valoración, número de reseñas, si tiene web o no, y el enlace a su ficha de Maps.
+
+Aprovecha que eres una IA para leer su ficha, sus fotos y sus reseñas y añadir a cada una: un resumen de dos líneas de a qué se dedica, qué opinan sus clientes en general, y si parece una empresa de obra grande o más de trato directo con particulares. Esto es para preparar la llamada de venta: mi cliente es esa empresa instaladora, quiero saber con quién voy a hablar antes de llamar.
+
+Puntúa cada empresa del 0 al 100 según lo que me interese llamarla:
+- Que tenga teléfono es importantisimo; si no lo tiene, podemos aceptarla si tiene email pero preferiblemente telefono.
+- Baja la nota a grandes cadenas y franquicias, donde quien coge el teléfono no decide.
+- Sube la nota a instaladores locales pequeños o medianos con buenas reseñas.
+- Que tenga web o no da igual para la nota; úsalo solo para desempatar.
+
+Con todo eso móntame un informe en un solo archivo html, con pinta de agencia:
+- Arriba, el título y cuatro cifras: total de empresas, ciudades cubiertas, reseñas sumadas y valoración media.
+- Una gráfica del reparto de empresas por ciudad.
+- El listado completo en tarjetas, que se pueda filtrar y ordenar por puntuación. Cada tarjeta con todos los datos: nombre, teléfono, valoración, reseñas, ciudad, el resumen que has sacado, un botón a Maps, una etiqueta de si tiene web etc... Y en cada una, una casilla para marcarla cuando ya la haya llamado y un hueco para escribir mis notas de la llamada que se almacenan si vuelvo a abrir el dashboard otro día.
+- Diseño cuidado: titulares elegantes, modo claro y oscuro, tonos verdes y azules oscuros, animaciones suaves y que se vea bien en el móvil.
+
+Guárdalo en la carpeta del proyecto cuando termines. Trabaja de forma autonoma y soluciona tu mismo los problemas que enfrentes.
+  
